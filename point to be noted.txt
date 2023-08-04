@@ -1,0 +1,14 @@
+1. We cannot call variable without defining it.
+2. Use Camel Case(first letter of second word should be capital)
+3. NAN(not a number)
+4. All empty String are false(for String)
+5. ()=> parenthesis
+6. {}=> block
+7. []=> array
+8. ctrl + spacebar(helps to import the variable declared in other file)
+9. toUpperCase(){it converts strings to toUpperCase}
+9. toLowerCase(){it converts strings to toLowerCase}
+10. String.trim(){it clears the spaces before and after string}
+11. String.trimStart(){it clears the spaces before string}
+12. String.trimEnd(){it clears the spaces after string}
+ 
